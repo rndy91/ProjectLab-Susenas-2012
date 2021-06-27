@@ -4,6 +4,9 @@ Repo ini adalah hasil exploratory terkait Kepemilikan rumah berdasarkan jumlah a
 Link dashboard Tableau :
 https://public.tableau.com/app/profile/khulud.saekhan/viz/DashboardProjectLab/DashboardKepemilikanRumah
 
+Link video presentasi :
+https://drive.google.com/file/d/1KNXn1d9tzpIw2LQmqNCFtZqKsFZ77YRI/view?usp=sharing
+
 Anggota Tim :
 - Khulud Saekhan
 - Randy
